@@ -1,0 +1,25 @@
+{
+  "project_name": "PETROCAF Pricing Engine Full V1",
+  "currency": "EGP",
+  "input": {
+    "boq_csv": "data/input/boq_sample.csv"
+  },
+  "master_data": {
+    "discipline_rules": "data/master/discipline_rules.csv",
+    "coefficients": "data/master/coefficients.csv",
+    "productivities": "data/master/productivities.csv",
+    "indirects": "data/master/indirects.csv",
+    "markups": "data/master/markups.csv",
+    "scenario_factors": "data/master/scenario_factors.csv"
+  },
+  "output": {
+    "priced_boq_csv": "data/output/priced_boq.csv",
+    "pricing_summary_csv": "data/output/pricing_summary.csv",
+    "validation_report_csv": "data/output/validation_report.csv"
+  },
+  "pricing_options": {
+    "scenario_name": "base",
+    "default_rounding": 2,
+    "allow_zero_rates": false
+  }
+}

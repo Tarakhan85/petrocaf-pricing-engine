@@ -1,0 +1,5 @@
+discipline,default_waste_factor,default_crew_factor,default_productivity_factor
+mechanical,1.03,1.00,1.00
+civil,1.02,1.00,1.00
+electrical,1.02,1.00,1.00
+instrumentation,1.02,1.00,1.00

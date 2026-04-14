@@ -1,0 +1,6 @@
+scenario_name,material_multiplier,labor_multiplier,equipment_multiplier,indirect_multiplier,markup_multiplier
+base,1.00,1.00,1.00,1.00,1.00
+aggressive,0.98,0.97,0.98,0.98,0.92
+conservative,1.03,1.05,1.04,1.02,1.08
+shutdown,1.02,1.10,1.08,1.08,1.03
+brownfield,1.03,1.08,1.06,1.06,1.03

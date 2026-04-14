@@ -1,0 +1,6 @@
+item_code,description,discipline,unit,quantity,base_material_rate,base_labor_rate,base_equipment_rate,environment_factor,complexity_factor,location_factor
+M-001,CS Pipe 6 inch supply and install,mechanical,m,120,450,110,35,1.10,1.15,1.05
+M-002,Gate Valve 6 inch install,mechanical,ea,8,2200,300,90,1.05,1.10,1.00
+C-001,Concrete pedestal,civil,m3,15,1800,450,220,1.00,1.05,1.00
+E-001,Cable tray installation,electrical,m,200,160,75,30,1.08,1.07,1.02
+I-001,Instrument hook-up,instrumentation,ea,25,90,140,15,1.06,1.10,1.01

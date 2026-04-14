@@ -1,0 +1,5 @@
+discipline,material_factor,labor_factor,equipment_factor,waste_factor
+mechanical,1.00,1.00,1.00,1.03
+civil,1.00,1.00,1.00,1.02
+electrical,1.00,1.00,1.00,1.02
+instrumentation,1.00,1.00,1.00,1.02
